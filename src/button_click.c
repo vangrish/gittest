@@ -1,3 +1,4 @@
+// some code added
 #include <pebble.h>
 
 static Window *window;

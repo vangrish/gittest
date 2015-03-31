@@ -1,4 +1,4 @@
-// some code added
+// some code added tag1
 #include <pebble.h>
 
 static Window *window;
